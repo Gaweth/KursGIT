@@ -1,1 +1,2 @@
 zmiany w plik wersja po raz 3 hue
+nowa funkcjonalnosc
